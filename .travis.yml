@@ -1,0 +1,10 @@
+dist: xenial
+language: csharp
+solution: Microting.Service.BasePn.sln
+mono: none
+dotnet: 2.2
+services:
+- mysql
+script:
+  - dotnet restore
+  - dotnet build Microting.Service.BasePn.sln
