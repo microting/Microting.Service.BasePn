@@ -1,6 +1,6 @@
-# eform-angular-trashinspection-plugin
+# Microting.Service.BasePn
 Build status
-[![Build Status](https://travis-ci.org/microting/eform-angular-trashinspection-plugin.svg?branch=stable)](https://travis-ci.org/microting/eform-angular-trashinspection-plugin)
+[![Build Status](https://travis-ci.org/microting/Microting.Service.BasePn.svg?branch=master)](https://travis-ci.org/microting/Microting.Service.BasePn)
 
 ## NOTICE! this is not a standalone project and needs to be used with eForm Angular Frontend.
 
